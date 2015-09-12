@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Where is my phone?</string>
+
+    <string name="preference_file_key">FIND_MY_PHONE_PREFERENCES</string>
+    <string name="preference_message_key">FIND_MY_PHONE_MESSAGE_KEY</string>
+    <string name="message_saved">All set! Easy, right?</string>
+    <string name="empty_message_warning">Please, type a code</string>
+    <string name="save">save</string>
+    <string name="type_the_message">Please, type a code</string>
+    <string name="touch_me">Touch me!</string>
+    <string name="awesome">Awesome!</string>
+</resources>
